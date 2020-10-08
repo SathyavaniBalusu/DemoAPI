@@ -1,0 +1,90 @@
+2020-10-08 10:31:21,245 INFO  [log] 6137093732732021
+2020-10-08 10:31:21,418 INFO  [log] User is qwerty
+2020-10-08 10:31:21,428 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:31:21,560 INFO  [log] ${Username and password#username}
+2020-10-08 10:31:21,616 INFO  [log] User is Sathya
+2020-10-08 10:31:21,617 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:31:21,708 INFO  [log] Script1$_run_closure1@c03ddb
+2020-10-08 10:31:21,739 INFO  [log] 4
+2020-10-08 10:31:21,740 INFO  [log] 77
+2020-10-08 10:31:22,217 INFO  [log] Sathya
+2020-10-08 10:31:22,254 INFO  [log] User is Sathya
+2020-10-08 10:31:22,255 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:31:22,287 INFO  [log] Script1$_run_closure1@e8a592
+2020-10-08 10:31:22,288 INFO  [log] 4
+2020-10-08 10:31:22,289 INFO  [log] 50
+2020-10-08 10:31:22,449 INFO  [log] Test Failed
+2020-10-08 10:31:22,456 INFO  [log] testcaseName got executedSystem test
+2020-10-08 10:31:23,042 INFO  [log] number of rows are 4 and numbe rof columns 2
+2020-10-08 10:31:23,095 INFO  [log] User is Sathya
+2020-10-08 10:31:23,096 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:31:23,173 INFO  [log] User is Sathya
+2020-10-08 10:31:23,173 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:31:23,275 INFO  [log] User is Sathya
+2020-10-08 10:31:23,276 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:31:23,802 INFO  [log] sathya
+2020-10-08 10:31:23,804 INFO  [log] welcome1
+2020-10-08 10:31:23,808 INFO  [log] HarryPotter
+2020-10-08 10:31:23,810 INFO  [log] welcome2
+2020-10-08 10:31:23,812 INFO  [log] Chris
+2020-10-08 10:31:23,815 INFO  [log] welcome3
+2020-10-08 10:42:47,005 INFO  [log] 4492566752004249
+2020-10-08 10:42:47,162 INFO  [log] User is qwerty
+2020-10-08 10:42:47,172 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:42:47,480 INFO  [log] ${Username and password#username}
+2020-10-08 10:42:47,620 INFO  [log] User is Sathya
+2020-10-08 10:42:47,625 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:42:47,752 INFO  [log] Script1$_run_closure1@3c4b55
+2020-10-08 10:42:47,776 INFO  [log] 4
+2020-10-08 10:42:47,777 INFO  [log] 136
+2020-10-08 10:42:48,530 INFO  [log] Sathya
+2020-10-08 10:42:48,608 INFO  [log] User is Sathya
+2020-10-08 10:42:48,608 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:42:48,696 INFO  [log] Script1$_run_closure1@174a1ed
+2020-10-08 10:42:48,702 INFO  [log] 4
+2020-10-08 10:42:48,711 INFO  [log] 86
+2020-10-08 10:42:49,497 INFO  [log] Test Failed
+2020-10-08 10:42:49,518 INFO  [log] testcaseName got executedSystem test
+2020-10-08 10:42:50,202 INFO  [log] number of rows are 4 and numbe rof columns 2
+2020-10-08 10:42:50,325 INFO  [log] User is Sathya
+2020-10-08 10:42:50,341 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:42:50,529 INFO  [log] User is Sathya
+2020-10-08 10:42:50,529 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:42:50,705 INFO  [log] User is Sathya
+2020-10-08 10:42:50,711 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:42:51,258 INFO  [log] sathya
+2020-10-08 10:42:51,260 INFO  [log] welcome1
+2020-10-08 10:42:51,273 INFO  [log] HarryPotter
+2020-10-08 10:42:51,276 INFO  [log] welcome2
+2020-10-08 10:42:51,281 INFO  [log] Chris
+2020-10-08 10:42:51,284 INFO  [log] welcome3
+2020-10-08 11:06:55,583 INFO  [log] 8110871759137944
+2020-10-08 11:06:55,728 INFO  [log] User is qwerty
+2020-10-08 11:06:55,731 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 11:06:55,933 INFO  [log] ${Username and password#username}
+2020-10-08 11:06:55,995 INFO  [log] User is Sathya
+2020-10-08 11:06:55,998 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 11:06:56,067 INFO  [log] Script1$_run_closure1@37da13
+2020-10-08 11:06:56,080 INFO  [log] 4
+2020-10-08 11:06:56,080 INFO  [log] 81
+2020-10-08 11:06:56,312 INFO  [log] Sathya
+2020-10-08 11:06:56,370 INFO  [log] User is Sathya
+2020-10-08 11:06:56,370 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 11:06:56,408 INFO  [log] Script1$_run_closure1@1ef0145
+2020-10-08 11:06:56,409 INFO  [log] 4
+2020-10-08 11:06:56,410 INFO  [log] 70
+2020-10-08 11:06:56,576 INFO  [log] Test Failed
+2020-10-08 11:06:56,581 INFO  [log] testcaseName got executedSystem test
+2020-10-08 11:06:56,955 INFO  [log] number of rows are 4 and numbe rof columns 2
+2020-10-08 11:06:57,016 INFO  [log] User is Sathya
+2020-10-08 11:06:57,017 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 11:06:57,121 INFO  [log] User is Sathya
+2020-10-08 11:06:57,121 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 11:06:57,186 INFO  [log] User is Sathya
+2020-10-08 11:06:57,186 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 11:06:57,650 INFO  [log] sathya
+2020-10-08 11:06:57,653 INFO  [log] welcome1
+2020-10-08 11:06:57,660 INFO  [log] HarryPotter
+2020-10-08 11:06:57,662 INFO  [log] welcome2
+2020-10-08 11:06:57,665 INFO  [log] Chris
+2020-10-08 11:06:57,669 INFO  [log] welcome3
